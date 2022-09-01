@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="900" src="https://user-images.githubusercontent.com/56730736/188015771-83f58223-3da4-4a46-9f81-4e41a0f35279.png" />
+
 <h1 align="center">Hi 👋, I'm Evin Gülcan</h1>
 
 - 🌱 I’m currently learning **Flutter&Dart**
