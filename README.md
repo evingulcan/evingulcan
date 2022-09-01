@@ -1,16 +1,18 @@
 
 <h1 align="left">Hi 👋, I'm Evin </h1>
 
+<div><h3>🙋‍♂️ About Me</h3></div>
+
 - ✨ I’m currently learning **Flutter&Dart**
 
 - 📫 How to reach me **eviniste72@gmail.com**
 
 - ⚡ Fun fact **I read book,watch film and draw a picture**
 
-
+<div><h3>📊 My Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evingulcan&show_icons=true&locale=en&layout=compact" alt="evingulcan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p> </div>
 
 
 <h3 align="left">🧠 Know / Using:</h3>
