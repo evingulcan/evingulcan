@@ -1,8 +1,8 @@
 
 <h1 align="left">Hi 👋, I'm Evin </h1>
 
-<div><h3 align="left">🙋‍♂️ About Me</h3></div>
-
+<div><h3>🙋‍♂️ About Me</h3></div>
+<hr/>
 - ✨ I’m currently learning **Flutter&Dart**
 
 - 📫 How to reach me **eviniste72@gmail.com**
