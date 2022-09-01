@@ -1,9 +1,5 @@
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/56730736/188015771-83f58223-3da4-4a46-9f81-4e41a0f35279.png" />
 <h1 align="center">Hi 👋, I'm Evin Gülcan</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d0/cf/13/d0cf1328f73383ee2a2c7c5d989db462.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evingulcan&label=Profile%20views&color=0e75b6&style=flat" alt="evingulcan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gulcan_evin" target="blank"><img src="https://img.shields.io/twitter/follow/gulcan_evin?logo=twitter&style=for-the-badge" alt="gulcan_evin" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter&Dart**
 
