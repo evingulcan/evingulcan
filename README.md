@@ -12,9 +12,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evingulcan&" alt="evingulcan" /></p>
 
 <div><h3>📊 My Github Stats</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evingulcan&show_icons=true&locale=en&layout=compact" alt="evingulcan" /></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p><br>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evingulcan&show_icons=true&locale=en&layout=compact" alt="evingulcan" /></p>
 </div>
 
 <h3 align="left">🧠 Know / Using: </h3>
