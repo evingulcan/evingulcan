@@ -14,7 +14,7 @@
 <div><h3>📊 My Github Stats</h3>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p><br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evingulcan&show_icons=true&locale=en&layout=compact" alt="evingulcan" /></p>
-</div>
+</div><br>
 
 <h3 align="left">🧠 Know / Using: </h3>
 
@@ -23,7 +23,7 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-</p>
+</p><br>
 
 <h3 align="left">Connect with me: </h3>
 
