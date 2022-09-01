@@ -1,6 +1,5 @@
 
 <h1 align="left">Hi 👋, I'm Evin </h1>
-<hr/>
 <h3>🙋‍♂️ About Me </h3>
 <hr/>
 
@@ -12,8 +11,8 @@
 
 <div><h3>📊 My Github Stats</h3>
 <hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evingulcan&show_icons=true&locale=en&layout=compact" alt="evingulcan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p>
 </div>
 
 
