@@ -1,5 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Evin </h1>
+
 <h3>🙋‍♂️ About Me </h3>
 <hr/>
 
@@ -11,10 +12,9 @@
 
 <div><h3>📊 My Github Stats</h3>
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evingulcan&show_icons=true&locale=en&layout=compact" alt="evingulcan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=evingulcan&show_icons=true&locale=en" alt="evingulcan" /></p>
+<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evingulcan&show_icons=true&locale=en&layout=compact" alt="evingulcan" /></p>
 </div>
-
 
 <h3 align="left">🧠 Know / Using: </h3>
 <hr/>
@@ -33,8 +33,3 @@
 <a href="https://medium.com/@eviniste72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eviniste72" height="30" width="40" /></a>
 </p>
 
-<div><h3 align="left">❤ Views and Followers </h3>
-<hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evingulcan&label=Profile%20views&color=0e75b6&style=flat" alt="evingulcan" /> </p>
-<p align="left"> <a href="https://twitter.com/gulcan_evin" target="blank"><img src="https://img.shields.io/twitter/follow/gulcan_evin?logo=twitter&style=for-the-badge" alt="gulcan_evin" /></a> </p>
-</div>
